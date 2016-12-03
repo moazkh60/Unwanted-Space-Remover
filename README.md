@@ -1,4 +1,4 @@
-# Project Title
+# Unwanted Space Remover
 
 Ever came across unecessary blank spaces while copy and pasting text from a PDF file. Here is the solution. Paste the PDF text here click on the remove spaces button at the top and copy it and paste it in your document.
 
